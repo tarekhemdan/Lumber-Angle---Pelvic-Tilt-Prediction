@@ -1,0 +1,15 @@
+F-value selector: Index(['force', 'lumbar angle', 'VAS', 'UDI', 'oxford'])
+=================================================================
+Mutual information selector: Index(['pelvic tilt', 'VAS', 'UDI', 'oxford', 'FSFI'])
+=================================================================
+=================================================================
+RFE with logistic regression: Index(['lumbar angle', 'mobilit', 'OSW', 'UDI', 'FSFI'])
+=================================================================
+Select from model with random forests: Index(['lumbar angle', 'pelvic tilt', 'VAS', 'UDI', 'oxford'])
+=================================================================
+Variance thresholding: Index(['BMI', 'force', 'lumbar angle', 'pelvic tilt', 'mobilit', 'VAS', 'OSW',
+       'UDI', 'oxford', 'FSFI', 'PPTright', 'PPTrleft'])
+=================================================================
+RFE with random forests: Index(['lumbar angle', 'pelvic tilt', 'VAS', 'UDI', 'oxford'])
+=================================================================
+Feature importance with random forests: Index(['pelvic tilt', 'UDI', 'VAS', 'oxford', 'FSFI'])
